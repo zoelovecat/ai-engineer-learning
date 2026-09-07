@@ -1,0 +1,14 @@
+[
+  {"query": "Điều 13 nói gì về hợp đồng lao động", "expected_dieu": 13, "type": "explicit"},
+  {"query": "Điều 20 quy định các loại hợp đồng lao động nào", "expected_dieu": 20, "type": "explicit"},
+  {"query": "Điều 35 nói về quyền của ai", "expected_dieu": 35, "type": "explicit"},
+  {"query": "Điều 36 quy định gì", "expected_dieu": 36, "type": "explicit"},
+  {"query": "Hợp đồng lao động là gì, định nghĩa thế nào", "expected_dieu": 13, "type": "semantic"},
+  {"query": "Thế nào được coi là hợp đồng lao động dù hai bên gọi bằng tên khác", "expected_dieu": 13, "type": "semantic"},
+  {"query": "Hợp đồng lao động không xác định thời hạn khác gì hợp đồng xác định thời hạn", "expected_dieu": 20, "type": "semantic"},
+  {"query": "Hợp đồng hết hạn mà người lao động vẫn tiếp tục làm việc thì xử lý thế nào", "expected_dieu": 20, "type": "semantic"},
+  {"query": "Tôi muốn tự nghỉ việc thì cần báo trước bao lâu", "expected_dieu": 35, "type": "semantic"},
+  {"query": "Công ty tự ý cho tôi nghỉ việc thì sao", "expected_dieu": 36, "type": "semantic"},
+  {"query": "Người sử dụng lao động có được đơn phương chấm dứt hợp đồng khi nhân viên ốm đau lâu ngày không", "expected_dieu": 36, "type": "semantic"},
+  {"query": "Bị đối xử tệ, đánh đập ở chỗ làm thì có quyền nghỉ ngay không cần báo trước không", "expected_dieu": 35, "type": "semantic"}
+]
