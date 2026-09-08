@@ -61,7 +61,7 @@ def fake_llm_react_step(state: ReActState) -> dict:
     if n_steps == 0:
         # TODO (hoc: buoc dau luon can du lieu tho truoc khi tra loi - khong
         # the tra loi ngay vi chua co observation nao)
-        order_id = state.query.strip("#").split()[0] if "#" in state.query else "A1023"
+        order_id = state.query.split("#")[1].split()[0] if "#" in state.query else "A1023"
         return {
             "thought": f"Cần tra trạng thái đơn hàng {order_id} trước khi trả lời.",
             "action": "call_tool",

@@ -25,3 +25,11 @@ Tên file theo mẫu: `<số thứ tự trong PROGRESS.md>-<slug-concept>.md`.
 - [08-tool-calling.md](08-tool-calling.md) — Tool-calling ở tầng model (structured output/JSON schema) — đã học
   - 🎯 [08-tool-calling-interview.md](08-tool-calling-interview.md) — điểm hay bị hỏi phỏng vấn
   - 🎯 [05-retrieval-eval-interview.md](05-retrieval-eval-interview.md) — điểm hay bị hỏi phỏng vấn
+- [09-mcp.md](09-mcp.md) — Model Context Protocol (MCP) — đã học
+  - 🎯 [09-mcp-interview.md](09-mcp-interview.md) — điểm hay bị hỏi phỏng vấn
+- [10-observability.md](10-observability.md) — Observability (Langfuse/LangSmith) — đã học
+  - 🎯 [10-observability-interview.md](10-observability-interview.md) — điểm hay bị hỏi phỏng vấn
+- [11-golden-set.md](11-golden-set.md) — Eval dataset / golden set, tránh regression — đã học
+  - 🎯 [11-golden-set-interview.md](11-golden-set-interview.md) — điểm hay bị hỏi phỏng vấn
+- [12-llm-as-judge.md](12-llm-as-judge.md) — LLM-as-judge — đã học
+  - 🎯 [12-llm-as-judge-interview.md](12-llm-as-judge-interview.md) — điểm hay bị hỏi phỏng vấn
