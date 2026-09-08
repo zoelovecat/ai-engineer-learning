@@ -33,3 +33,7 @@ Tên file theo mẫu: `<số thứ tự trong PROGRESS.md>-<slug-concept>.md`.
   - 🎯 [11-golden-set-interview.md](11-golden-set-interview.md) — điểm hay bị hỏi phỏng vấn
 - [12-llm-as-judge.md](12-llm-as-judge.md) — LLM-as-judge — đã học
   - 🎯 [12-llm-as-judge-interview.md](12-llm-as-judge-interview.md) — điểm hay bị hỏi phỏng vấn
+- [13-hallucination-detection.md](13-hallucination-detection.md) — Phát hiện hallucination (self-consistency, citation-based) — đã học
+  - 🎯 [13-hallucination-detection-interview.md](13-hallucination-detection-interview.md) — điểm hay bị hỏi phỏng vấn
+- [14-agent-memory.md](14-agent-memory.md) — Kiến trúc bộ nhớ agent (short/episodic/long-term) — đã học
+  - 🎯 [14-agent-memory-interview.md](14-agent-memory-interview.md) — điểm hay bị hỏi phỏng vấn
