@@ -52,3 +52,7 @@ Tên file theo mẫu: `<số thứ tự trong PROGRESS.md>-<slug-concept>.md`.
   - 🎯 [19-quantization-interview.md](19-quantization-interview.md) — điểm hay bị hỏi phỏng vấn
 - [20-model-serving.md](20-model-serving.md) — Model serving (vLLM/TGI, batching) — đã học (checkpoint 3/3 tự trả lời đúng)
   - 🎯 [20-model-serving-interview.md](20-model-serving-interview.md) — điểm hay bị hỏi phỏng vấn
+- [21-ai-gateway.md](21-ai-gateway.md) — AI Gateway (LiteLLM: routing, cost tracking, fallback) — đã học (câu 3 assistant trả lời hộ — cost tracking cần gắn nhãn agent, không chỉ đếm token)
+  - 🎯 [21-ai-gateway-interview.md](21-ai-gateway-interview.md) — điểm hay bị hỏi phỏng vấn
+- [22-prompt-versioning.md](22-prompt-versioning.md) — Prompt versioning (version control, A/B test) — đã học (độ tin cậy thấp, câu 2-3 assistant trả lời hộ hoàn toàn)
+  - 🎯 [22-prompt-versioning-interview.md](22-prompt-versioning-interview.md) — điểm hay bị hỏi phỏng vấn
