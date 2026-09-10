@@ -47,3 +47,8 @@ Tên file theo mẫu: `<số thứ tự trong PROGRESS.md>-<slug-concept>.md`.
 - [18-lora-qlora.md](18-lora-qlora.md) — LoRA/QLoRA (PEFT) — đã học
   - 📐 [18-lora-qlora-math.md](18-lora-qlora-math.md) — toán: số tham số tiết kiệm được (d×d vs 2×d×r)
   - 🎯 [18-lora-qlora-interview.md](18-lora-qlora-interview.md) — điểm hay bị hỏi phỏng vấn
+- [19-quantization.md](19-quantization.md) — Quantization (INT8/INT4) — đã học (độ tin cậy trung bình-thấp, câu 1 sai lúc đầu, câu 2 assistant trả lời hộ, follow-up chưa trả lời)
+  - 📐 [19-quantization-math.md](19-quantization-math.md) — toán: linear quantization (scale/zero-point), VRAM theo bit-width
+  - 🎯 [19-quantization-interview.md](19-quantization-interview.md) — điểm hay bị hỏi phỏng vấn
+- [20-model-serving.md](20-model-serving.md) — Model serving (vLLM/TGI, batching) — đã học (checkpoint 3/3 tự trả lời đúng)
+  - 🎯 [20-model-serving-interview.md](20-model-serving-interview.md) — điểm hay bị hỏi phỏng vấn
