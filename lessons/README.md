@@ -56,3 +56,7 @@ Tên file theo mẫu: `<số thứ tự trong PROGRESS.md>-<slug-concept>.md`.
   - 🎯 [21-ai-gateway-interview.md](21-ai-gateway-interview.md) — điểm hay bị hỏi phỏng vấn
 - [22-prompt-versioning.md](22-prompt-versioning.md) — Prompt versioning (version control, A/B test) — đã học (độ tin cậy thấp, câu 2-3 assistant trả lời hộ hoàn toàn)
   - 🎯 [22-prompt-versioning-interview.md](22-prompt-versioning-interview.md) — điểm hay bị hỏi phỏng vấn
+- [23-prompt-injection.md](23-prompt-injection.md) — Prompt injection (tấn công + phòng thủ) — đã học (độ tin cậy thấp, câu 1 quá chung chung, câu 2 "không biết")
+  - 🎯 [23-prompt-injection-interview.md](23-prompt-injection-interview.md) — điểm hay bị hỏi phỏng vấn
+- [24-red-teaming.md](24-red-teaming.md) — Red-teaming — đã học (độ tin cậy thấp, assistant trả lời hộ toàn bộ checkpoint)
+  - 🎯 [24-red-teaming-interview.md](24-red-teaming-interview.md) — điểm hay bị hỏi phỏng vấn
